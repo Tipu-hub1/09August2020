@@ -32,6 +32,7 @@ WebDriver driver;
 			
 		System.out.println("Input box is not enabled");
 			System.out.println("Input box is not enabled2");
+			System.out.println("Input box is not enabled3");
 		return false;
 		}
 		searchinput.click();
